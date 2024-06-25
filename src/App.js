@@ -3,7 +3,11 @@ import './App.scss';
 
 const App = () =>
 	<div className="App">
-		Ready to start.
+		<div className="container">
+			<div className="child"/>
+			<div className="child1"/>
+
+		</div>
 	</div>;
 
 export default App;
